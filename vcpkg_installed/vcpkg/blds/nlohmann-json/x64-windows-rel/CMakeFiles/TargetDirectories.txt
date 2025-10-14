@@ -1,0 +1,5 @@
+C:/Users/Khoo Zong Zheng/source/repos/Weather/vcpkg_installed/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/Khoo Zong Zheng/source/repos/Weather/vcpkg_installed/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/Khoo Zong Zheng/source/repos/Weather/vcpkg_installed/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/Users/Khoo Zong Zheng/source/repos/Weather/vcpkg_installed/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/install.dir
+C:/Users/Khoo Zong Zheng/source/repos/Weather/vcpkg_installed/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/install/local.dir

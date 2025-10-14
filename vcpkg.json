@@ -1,0 +1,9 @@
+{
+  "name": "weather",
+  "version-string": "1.0",
+  "dependencies": [
+    "curl",
+    "nlohmann-json"
+  ]
+}
+
